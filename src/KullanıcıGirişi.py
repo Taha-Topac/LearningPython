@@ -1,8 +1,8 @@
-a1="taha"
-a2=159753
+a1 = "taha"
+a2 = 159753
 
 a3=input("Adınızı girin:")
-a4=input("Şifrenizi şifrenizi")
+a4=int(input("Şifrenizi şifrenizi:"))
 
 if ( a1==a3) and (a2==a4):
     print("Giriş başarılı !!! ")
