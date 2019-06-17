@@ -6,7 +6,7 @@ Bu repository altında 2019 stajında öğreneceğim Python programlama dili ile
 
 ## 1.Uygulama
 
-Konsola kullanıcıyı selamlayan ve saati gösteren ilk program. 
+Konsola kullanıcıyı selamlayan ve saati gösteren ilk program.  
 Buraya tıklayın:[Hello World](/src/HelloWorld.py)
 
 
@@ -17,11 +17,15 @@ Buraya tıklayın:[Toplama](/src/Toplama)
 
 ## 3. Uygulama
 
-Kullancı giriş sitemi (if, else, elif)
+Kullancı giriş sitemi (if, else, elif). 
 Buraya tıklayın:[KullanıcıGiriş](/src/KullanıcıGiriş.py)
 
 ## 4.Uygulama
 
-Sıcak, soğuk oyunu 
+Sıcak, soğuk oyunu.  
 Buraya tıklayın:[SıcakSoğukOyunu](/src/SıcakSoğukOyunu.py)
 
+## 5.Uygulama
+
+if, else ve elif kullanarak yaptığım uygulama. 
+Buraya Tıklayın:[İfElseUygulama](/src/İfElseUygulama)
