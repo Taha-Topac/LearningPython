@@ -29,3 +29,5 @@ Buraya tıklayın:[SıcakSoğukOyunu](/src/SıcakSoğukOyunu.py)
 
 if, else ve elif kullanarak yaptığım uygulama. 
 Buraya Tıklayın:[İfElseUygulama](/src/İfElseUygulama)
+
+## 6.Uygulama
