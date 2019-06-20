@@ -57,7 +57,7 @@ while tekrarla == True:
             if(a2==2):
                 bsayı1 = input('1. Sayı : ')
                 bsayı3 = input('2. Sayı : ')
-                bsonuç=float(bsayı1)%float(bsayı3)
+                bsonuç=float(bsayı1)/float(bsayı3)
                 print("Sonuç :{0} ".format(bsonuç))
                 tekrarla = int(input("Tekrarlamak için 1'e basın >"))
                 if tekrarla != 1:

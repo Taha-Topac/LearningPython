@@ -38,7 +38,7 @@ Buraya Tıklayın:[Sayı_Tahmin_Oyunu](/src/SayıTahminOyunu.py)
 ## 7.Uygulama
 
 Bu uygulama ise sizden bir metin girmenizi istiyor. Eğer girdiğinizin mitini içinde (G,g büyük küçük fark etmez ) harflarinden birini bulursa "'g karakteri metin içinde var" mesajı verir yada tam tersini.
-Buraya Tıklayınn:[Metıne_G_Harfı_Varmı](/src/MetıneGHarfıVarmı.py)
+Buraya Tıklayınn:[Metıne_G_Harfı_Varmı](/src/MetındeGHarfıVarmı.py)
 
 ## 8.Uygulama
 
