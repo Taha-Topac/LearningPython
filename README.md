@@ -47,7 +47,7 @@ Buraya Tıklayın:[Maaş_Zam](/src/MaaşZam.py)
 
 ## 9.Uygulama
 
-Listede bulun sayıların 4'e bölünüp bölünmediğine bakar. Bölünenleri ekrana yazdırır.
+Listede bulun sayıların 4'e bö lünüp bölünmediğine bakar. Bölünenleri ekrana yazdırır.
 Buraya Tıklayın:[Listedeki_Sayıları_4'e_Bölme](/src/ListedekiSayıları4eBölme)
 
 ## 10.Uygulama
@@ -66,4 +66,17 @@ Girdiğiniz sayının factorial hesaplar.
 Buraya Tıklayın:[Factorial](/src/Factorial.py)
 
 ## 13.Uygulama
+
+Girilen metini harf harf ayırıp teker teker alt alta yazar.
+Buraya Tıklayın:[Girilen_Metini_Alt_Alta_yazma](/src/FırılenMetnıAltAltayazma.py)
+
+## 14.Uygulama
+
+Girdiğiniz 2 sayının ortasında kalan satıları bulup onları toplar.
+Buraya Tıklayın:[Aralıklardaki_Satıları_Toplama](/src/KullanıcınınGırdıgı2SayıArasındakıSayılarıToplama.py)
+
+## 15.Uygulama
+
+Form kullanımı anlamak için yaptığım uygulama. 
+Buraya Tıklayın:[Tkinter](/src/TkımterListBoxKullanımı.py)
 
