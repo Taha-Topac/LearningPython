@@ -68,7 +68,7 @@ Buraya Tıklayın:[Factorial](/src/Factorial.py)
 ## 13.Uygulama
 
 Girilen metini harf harf ayırıp teker teker alt alta yazar.
-Buraya Tıklayın:[Girilen_Metini_Alt_Alta_yazma](/src/FırılenMetnıAltAltayazma.py)
+Buraya Tıklayın:[Girilen_Metini_Alt_Alta_yazma](/src/GırılenMetnıAltAltayazma.py)
 
 ## 14.Uygulama
 
