@@ -78,5 +78,5 @@ Buraya Tıklayın:[Aralıklardaki_Satıları_Toplama](/src/KullanıcınınGırd�
 ## 15.Uygulama
 
 Form kullanımı anlamak için yaptığım uygulama. 
-Buraya Tıklayın:[Tkinter](/src/TkımterListBoxKullanımı.py)
+Buraya Tıklayın:[Tkinter](/src/TkinterListBoxKullanımı.py)
 
