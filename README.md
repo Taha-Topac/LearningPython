@@ -80,3 +80,7 @@ Buraya Tıklayın:[Aralıklardaki_Satıları_Toplama](/src/KullanıcınınGırd�
 Form kullanımı anlamak için yaptığım uygulama. 
 Buraya Tıklayın:[Tkinter](/src/TkinterListBoxKullanımı.py)
 
+## 16.Uygulama
+
+15.ugulamanın biraz daha kapsamlısını yapmak istedim. Ohm hesaplayan bir uygulama yapttım.
+Buraya Tıklayın:[Ohm](/src/OhmHesaplama.py)
