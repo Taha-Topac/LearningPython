@@ -84,3 +84,13 @@ Buraya Tıklayın:[Tkinter](/src/TkinterListBoxKullanımı.py)
 
 15.ugulamanın biraz daha kapsamlısını yapmak istedim. Ohm hesaplayan bir uygulama yapttım.
 Buraya Tıklayın:[Ohm](/src/OhmHesaplama.py)
+
+## 17.Uygulama
+
+Bu uygulama da kullanıcı giriş sistemi yaptım. 
+Buraya Tıklayın:[Kullanıcı_Kayıt](/src/kadi_ksifre.py) Arka planı:[Database](/src/kadi_sifre_kontrol.py) 
+
+## 18.Uygulama
+
+Yine Tkinter kullanarak yaptığım bir uygulam daha bu sefer. 4 işlem yapıyor. 
+Buraya Tıklayın[4_İşlem](/src/Tkinter4İşlem.py)

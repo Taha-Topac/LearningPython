@@ -1,6 +1,5 @@
 from tkinter import *
 from tkinter import messagebox
-import sys
 
 
 def yeni():         # kutulari temizlemek icin
