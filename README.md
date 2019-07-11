@@ -93,4 +93,4 @@ Buraya Tıklayın:[Kullanıcı_Kayıt](/src/kadi_ksifre.py) Arka planı:[Databas
 ## 18.Uygulama
 
 Yine Tkinter kullanarak yaptığım bir uygulam daha bu sefer. 4 işlem yapıyor. 
-Buraya Tıklayın[4_İşlem](/src/Tkinter4İşlem.py)
+Buraya Tıklayın:[4_İşlem](/src/Tkinter4İşlem.py)
