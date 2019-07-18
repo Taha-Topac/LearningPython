@@ -94,3 +94,13 @@ Buraya Tıklayın:[Kullanıcı_Kayıt](/src/kadi_ksifre.py) Arka planı:[Databas
 
 Yine Tkinter kullanarak yaptığım bir uygulam daha bu sefer. 4 işlem yapıyor. 
 Buraya Tıklayın:[4_İşlem](/src/Tkinter4İşlem.py)
+
+## 19.Uygulama
+
+Bu uygulamada girdiğiniz metinde sesli harf olup olmadığına bakıyoruz. 
+Buraya Tıklayın:[SeslıHarfBulma](/src/SeslıHarfBulma.py)
+
+## 20.Uygulama
+
+Verilen linkin ulaşıp, ulaşalamadığını gösteren uygulama. 
+Buraya Tıklayın:[RequestsUygulaması](/src/RequestsUygulaması.py)
